@@ -1,0 +1,6 @@
+In the below article, we have created a class named “Error” derived
+from the class Exception.
+This base class is inherited by various 
+user-defined classes to handle different types of python
+raise an exception with message
+123 is the worlds end in the worlds
